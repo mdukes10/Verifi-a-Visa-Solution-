@@ -5,8 +5,8 @@
 ## Overview and Origin
 ---
 * Verifi a Visa Solution
-* Verifi a Visa Solution firm was founded in 2005, based in Los Angeles, California Jun 1, 2005
-* Matthew Katz, Verifi’s founder and CEO
+* Verifi a Visa Solution firm was founded in 2005, based in Los Angeles, California Jun 1, 2005.
+* Matthew Katz, Verifi’s founder and CEO.
 * The birth of Verifi came from CEO Katz while still attending college, started a successful business that helped him develop the “Casino Strategy” which lead him to obtain high-level strategic partnerships. With those partnerships it would then lead him on the develop a customized solution that systematically identifies multiple types of payment risk.
 * Katz previous successful business help Verifi receive funding from investors such as Brightwood Capital Advisors and many others.
 
