@@ -34,7 +34,7 @@ Chargebacks 911
 
 ## Recommendations
 ---
-* After studying customer habits I would recommend Verifi to create several omnichannels to help better serve their products to merchants. Customers who do online research of both competitors and merchant s spend 13% more than those online visiting in-store.  Companies who have four or more channels spent on average 9% more in-store, compared to customers who used only one channel. With such channels it will help better eliminate chargebacks, stolen merchandise, recourse and time costs, and brand reputation. These cannot be ignored especially around the holiday sale season. For merchants who have been burned with card fraud, these channels can help decline the dishonest customers
+* After studying customer habits I would recommend Verifi to create several omnichannels to help better serve their products to merchants. Customers who do online research of both competitors and merchant s spend 13% more than those online visiting in-store.  Companies who have four or more channels spent on average 9% more in-store, compared to customers who used only one channel. With such channels it will help better eliminate chargebacks, stolen merchandise, recourse and time costs, and brand reputation. These cannot be ignored especially around the holiday sale season. For merchants who have been burned with card fraud, these channels can help decline the dishonest customers.
 
 ## Resources
 ---
